@@ -1,0 +1,22 @@
+body
+{
+   text-justify: auto;
+   border: black;
+}
+h1
+{
+    text-justify: auto;
+    text-align: center;
+    background-color: red;
+    color: yellow;
+    box-shadow: yellow;
+}
+h2
+{
+    text-justify: auto;
+}
+p
+{
+    text-justify: auto;
+
+}
